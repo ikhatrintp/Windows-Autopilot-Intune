@@ -13,12 +13,6 @@ Below are links to detailed guides included in this repository:
 
 📌 **Windows Autopilot Setup Guide** → [Guide Link](./Autopilotdocuments.pdf)
 
-📌 **Microsoft Intune Configuration** → [Guide Link](./docs/Intune_Configuration.md)
-
-📌 **Device Group & Profile Assignments** → [Guide Link](./docs/Device_Group_Profiles.md)
-
-📌 **Troubleshooting & FAQs** → [Guide Link](./docs/Troubleshooting_FAQ.md)
-
 ## Prerequisites
 Before using Windows Autopilot & Intune, ensure you have:
 - A valid **Microsoft 365 E5 or Enterprise subscription**
@@ -32,19 +26,6 @@ $ git clone https://github.com/yourusername/Windows-Autopilot-Intune.git
 
 # Navigate to the repository
 $ cd Windows-Autopilot-Intune
-```
-
-## Contributions
-Contributions are welcome! Feel free to submit **pull requests**, create issues, or suggest improvements.
-
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
-## Contact
-For any queries or suggestions, reach out via **issues** or email: [your.email@example.com](mailto:your.email@example.com)
-
----
-✍ **Maintained by**: *Your Name | Your Organization*
 
 # Technical Questions for Windows Autopilot & Intune
 
