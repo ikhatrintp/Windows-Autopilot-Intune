@@ -26,7 +26,7 @@ $ git clone https://github.com/yourusername/Windows-Autopilot-Intune.git
 
 # Navigate to the repository
 $ cd Windows-Autopilot-Intune
-
+```
 # Technical Questions for Windows Autopilot & Intune
 
 ## General Questions
