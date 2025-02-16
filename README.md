@@ -11,7 +11,7 @@ This repository provides comprehensive documentation and step-by-step guides for
 ## Step-by-Step Guides
 Below are links to detailed guides included in this repository:
 
-📌 **Windows Autopilot Setup Guide** → [Guide Link](./docs/Windows_Autopilot_Setup.md)
+📌 **Windows Autopilot Setup Guide** → [Guide Link](./Windows-Autopilot-Intune/Autopilotdocuments.pdf)
 
 📌 **Microsoft Intune Configuration** → [Guide Link](./docs/Intune_Configuration.md)
 
