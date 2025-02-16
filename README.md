@@ -1,7 +1,4 @@
 # Windows Autopilot & Intune Repository
-
-![Windows Autopilot](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg)
-
 ## Overview
 This repository provides comprehensive documentation and step-by-step guides for setting up and managing **Windows Autopilot** with **Microsoft Intune**. Windows Autopilot is a cloud-based deployment solution that simplifies device provisioning, reducing the need for manual IT intervention. Combined with Microsoft Intune, it offers seamless device management, security enforcement, and policy configurations.
 
